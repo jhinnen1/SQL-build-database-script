@@ -1,2 +1,2 @@
-# swdv-655-sportsrecords-database-build
+This single script builds a large database with eight tables.
  
