@@ -1,2 +1,2 @@
-This single script builds a large database with eight tables.
+This single script builds a database with eight tables.
  
